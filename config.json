@@ -1,0 +1,28 @@
+{
+	"data": {
+		"debugMode": "true",
+		"pageTopMargin":"16",
+		"strings": {
+			"errors": {
+				"failure": "Sorry, but this website can't run on your browser!",
+				"success": "Thank's mate ... good job",
+				"status": "... ....",
+				"unknown": "Whoops, something inexplicably went wrong. Sorry!"
+			},
+			"messages": {
+				"loading": "l o a d i n g"
+			}
+		},
+		"tooltips": {
+			"index": {
+				"indextest": "test"
+			}
+		},
+		"quote": {
+			"id":"1437",
+			"quote":"At the age of six I wanted to be a cook. At seven I wanted to be Napoleon. And my ambition has been growing steadily ever since. ",
+			"author":"Salvador Dali",
+			"permalink":"http:\/\/quotesondesign.com\/?p=1437"
+		}
+	}
+}
